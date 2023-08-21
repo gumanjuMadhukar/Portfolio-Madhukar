@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/gumanjuMadhukar/portfolio.git/static/css/main.de94b5bd.css",
+    "main.js": "/gumanjuMadhukar/portfolio.git/static/js/main.39dff1ab.js",
+    "static/js/787.1ed0c42c.chunk.js": "/gumanjuMadhukar/portfolio.git/static/js/787.1ed0c42c.chunk.js",
+    "static/media/mypic.jpg": "/gumanjuMadhukar/portfolio.git/static/media/mypic.25b1564e344f78913f34.jpg",
+    "static/media/contactImg.png": "/gumanjuMadhukar/portfolio.git/static/media/contactImg.8ddfbfd11798f881db54.png",
+    "static/media/testimonialOne.png": "/gumanjuMadhukar/portfolio.git/static/media/testimonialOne.c4706b2d1cadcb9f4daf.png",
+    "static/media/projectThree.jpeg": "/gumanjuMadhukar/portfolio.git/static/media/projectThree.47442baa3158613330ab.jpeg",
+    "static/media/testimonialTwo.png": "/gumanjuMadhukar/portfolio.git/static/media/testimonialTwo.c6df2773c486964035d9.png",
+    "static/media/projectTwo.jpg": "/gumanjuMadhukar/portfolio.git/static/media/projectTwo.1fabe2c8c93632187ee6.jpg",
+    "static/media/slick.svg": "/gumanjuMadhukar/portfolio.git/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/gumanjuMadhukar/portfolio.git/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/gumanjuMadhukar/portfolio.git/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/gumanjuMadhukar/portfolio.git/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/gumanjuMadhukar/portfolio.git/index.html",
+    "main.de94b5bd.css.map": "/gumanjuMadhukar/portfolio.git/static/css/main.de94b5bd.css.map",
+    "main.39dff1ab.js.map": "/gumanjuMadhukar/portfolio.git/static/js/main.39dff1ab.js.map",
+    "787.1ed0c42c.chunk.js.map": "/gumanjuMadhukar/portfolio.git/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de94b5bd.css",
+    "static/js/main.39dff1ab.js"
+  ]
+}
