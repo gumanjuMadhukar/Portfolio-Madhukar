@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import Banner from "./components/banner/Banner";
 import Contact from "./components/contact/Contact";
